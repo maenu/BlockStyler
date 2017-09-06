@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "MetaLink",
+	"category" : "BlockStyler",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "BlockStylerMetaLink",
+	"type" : "normal"
+}

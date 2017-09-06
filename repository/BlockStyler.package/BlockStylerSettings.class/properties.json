@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "BlockStyler",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"BackgroundColor",
+		"BackgroundColorAlpha"
+	],
+	"instvars" : [ ],
+	"name" : "BlockStylerSettings",
+	"type" : "normal"
+}

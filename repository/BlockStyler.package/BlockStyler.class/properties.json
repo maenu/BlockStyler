@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "RBProgramNodeVisitor",
+	"category" : "BlockStyler",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"textModel",
+		"color"
+	],
+	"name" : "BlockStyler",
+	"type" : "normal"
+}
