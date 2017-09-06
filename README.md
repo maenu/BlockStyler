@@ -13,7 +13,7 @@ Install with Metacello from GitHub.
 ```smalltalk
 Metacello new
 	baseline: 'BlockStyler';
-	repository: 'github://maenu/BlockStyler';
+	repository: 'github://maenu/BlockStyler/repository';
 	load
 ```
 
