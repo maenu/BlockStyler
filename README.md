@@ -1,12 +1,12 @@
-#BlockStyler
+# BlockStyler
 
 Highlights blocks to make them stand out more and detect nesting levels more easily.
 
-##Highlight
+## Highlight
 
 ![Highlight](highlight.png)
 
-##Installation
+## Installation
 
 Install with Metacello from GitHub.
 
@@ -17,7 +17,7 @@ Metacello new
 	load
 ```
 
-##Settings
+## Settings
 
 You can set the highlight color with alpha using the settings browser under `Code Browsing > Syntax Highlighting > BlockStyler`
 
