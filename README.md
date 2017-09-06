@@ -4,7 +4,7 @@ Highlights blocks to make them stand out more and detect nesting levels more eas
 
 ##Highlight
 
-![Highlight](highlight.png){dpi=144}
+![Highlight](highlight.png)
 
 ##Installation
 
@@ -21,4 +21,4 @@ Metacello new
 
 You can set the highlight color with alpha using the settings browser under `Code Browsing > Syntax Highlighting > BlockStyler`
 
-![Settings](settings.png){dpi=144}
+![Settings](settings.png)
