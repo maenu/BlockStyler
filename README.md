@@ -19,6 +19,7 @@ Metacello new
 
 ## Settings
 
-You can set the highlight color with alpha using the settings browser under `Code Browsing > Syntax Highlighting > BlockStyler`
+You can set the highlight color with alpha using the settings browser under `Code Browsing > Syntax Highlighting > BlockStyler`.
+Themes are supported.
 
 ![Settings](settings.png)
