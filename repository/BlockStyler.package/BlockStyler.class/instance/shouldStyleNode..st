@@ -1,3 +1,3 @@
 accessing
 shouldStyleNode: anASTNode
-	^anASTNode isBlock
+	^ SHPreferences enabled and:[ anASTNode isBlock ]

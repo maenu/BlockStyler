@@ -1,3 +1,3 @@
 settings
 defaultBackgroundColor: aColor
-	DefaultBackgroundColor := aColor
+	self defaultThemes at: Smalltalk ui theme class put: aColor
