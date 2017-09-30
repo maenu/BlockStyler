@@ -1,6 +1,6 @@
 visiting
 visitBlockNode: aBlockNode
-	SHPreferences enabled ifTrue: [ (self backgroundLineLimits: (self lineLimitsOf: aBlockNode)) do: [ :line | | change |
+	(SHPreferences enabled and: self class enabled) ifTrue: [ (self backgroundLineLimits: (self lineLimitsOf: aBlockNode)) do: [ :line | | change |
 		change := RubConfigurationChange new.
 		change configurationBlock: [ :t | | r |
 			r := RubTextSegmentMorph from: aBlockNode left + line key - 1 to: aBlockNode left + line value.

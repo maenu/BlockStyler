@@ -1,7 +1,8 @@
 settings
 settingsOn: aBuilder
 	<systemsettings>
-	(aBuilder group: #'BlockStyler')
+	(aBuilder setting: #'BlockStyler')
 		parent: #'Syntax Highlighting';
 		target: self;
+		selector: #enabled;
 		with: [ (aBuilder setting: #defaultBackgroundColor) label: 'Background color' ]
