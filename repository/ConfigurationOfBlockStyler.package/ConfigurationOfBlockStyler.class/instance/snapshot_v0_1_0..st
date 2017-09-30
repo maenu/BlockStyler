@@ -1,6 +1,6 @@
-symbolic versions
-master: spec
-	<version: 'master'>
+as yet unclassified
+snapshot_v0_1_0: spec
+	<version: '0.1.0-snapshot'>
 	
 	spec for: #'pharo' do: [ 
 		spec
