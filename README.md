@@ -8,7 +8,7 @@ Highlights blocks to make them stand out more and detect nesting levels more eas
 
 ## Installation
 
-Install with Metacello from GitHub.
+Install through the Catalog by searching for BlockStyler or install with Metacello from GitHub:
 
 ```smalltalk
 Metacello new
